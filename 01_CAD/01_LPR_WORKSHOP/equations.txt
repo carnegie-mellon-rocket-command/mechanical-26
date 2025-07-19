@@ -1,0 +1,7 @@
+﻿"B_OD" = 18.7mm
+"B_ID" = 18mm
+"B_LG" = 9in
+"F_TH" = 0.125in
+"C_TH" = 0.125in
+"fins" = 3
+"tol" = 0.1mm
