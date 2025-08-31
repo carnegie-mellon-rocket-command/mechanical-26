@@ -13,3 +13,9 @@ Preferably does not require buying a new motor casing
 Cool-ass boattail?
 Different fins from last two years
 - i.e. not trapezoidal or swept, we've also overdone clipped delta i feel
+
+# Assumptions
+Payload
+- Expect 5lbs but plan 6 lbs (FOS 1.2)
+- Expect lots of bay area necessary for an extra parachute
+-  
