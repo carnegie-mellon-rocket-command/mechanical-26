@@ -1,0 +1,5 @@
+﻿"vee_block_width" = 3in
+"material_thickness" = 0.215in
+"vee_side_width" = 4.25in
+"vee_bottom_tab_width" = 2in
+"vee_front_side" = 1in
