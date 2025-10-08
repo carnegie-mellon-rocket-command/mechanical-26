@@ -1,28 +1,33 @@
 "AIRFRAME_OD"= 3.091in
 "AIRFRAME_ID"= 3.00in
 "FLAT_T" = 0.125in
+"COUPLER_OD" = 2.998in
+"COUPLER_ID" = 2.875in
 
 "NOSE_EXP_L"= 3.5in
 "NOSE_SHOULDER_L" = 5in
 
-"MAIN_L" = 18in
+"MAIN_L" = 30in
 
 "RECO_COUP_L" = 6in
 "RECO_SWITCH_L" = 1.5in
+"RECO_ROD_X" = 1.5in
 
 "DROGUE_L" = 14in
 
 "ATS_FORE_COUP_L" = 4in
 "ATS_AFT_COUP_L" = 4in
+"ATS_ROD_X" = 2in
 
-"LOWER_L" = 18in
+"LOWER_L" = 16in
 "FIN_ROOT" = 5in
 "FIN_X" = 0.75in
 "FIN_N" = 4
 
-
 "MOTOR_OD" = 2.25in
 "MOTOR_ID" = 2.126in
+"MOTOR_L" = 8in
+"MOTOR_LOWER_X" = 0.5in
 
 "CR_AFT_X" = 0.5in
 "CR_FORE_X" = 6in

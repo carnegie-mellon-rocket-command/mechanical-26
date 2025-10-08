@@ -7,7 +7,8 @@ Indexed with two numbers at the beginning, snakecase, in all caps. e.g. "00_USLI
 
 ## File names
 Files where multiple iterations may be relevant to hold on to, such as OpenRocket iterations, will always have a three-number index at the beginning, followed by a name, followed by the month and date it was last iterated upon. e.g. "004_Fullscale_9_09.ork".
-Parts are a little bit more complex. If you downloaded a part from McMaster Carr or similar, please put the item's item number as its first name, e.g. "13735T59_US_Flag.sldprt" If you didn't download it from anywhere, please use snakecase with the first letter capitalized, e.g. "My_Awesome_Part.sldprt"
+Parts are a little bit more complex. If you downloaded a part from McMaster-Carr or similar, please put the item's item number as its first name, e.g. "13735T59_US_Flag.SLDPRT" If you didn't download it from anywhere, please use snakecase with the first letter capitalized, e.g. "My_Awesome_Part.SLDPRT". If your part is related to subscale or fullscale fabrication, please use HD for HONEYDEW or CT for CANTALOUPE respectively at the beginning of the filename. 
+Assembly documents have the same nomenclature as parts, but are in all caps, e.g. "MY_AWESOME_PART.SLDASM"
 ## Equations
 Variable names should be in all caps, snake case, most-general to least-general. e.g. "AIRFRAME_OD" or "ATS_FORE_COUP_L". Last part of the name should have some sort of information about what the variable actually refers to, common ones include:
 * D: Diameter
