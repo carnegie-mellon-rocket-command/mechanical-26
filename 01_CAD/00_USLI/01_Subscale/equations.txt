@@ -24,9 +24,9 @@
 "CR_AFT_X"= 0.5in
 "CR_FORE_X"= 6in
 "NOSE_CONE_L"=14.5in
-"ATS_LIPO_L" = 2.8in
-"ATS_LIPO_W" = 0.625in
-"ATS_LIPO_H" = 1.4in 
+"ATS_LIPO_L" = 1.92in
+"ATS_LIPO_W" = 0.42in
+"ATS_LIPO_H" = 0.94in 
 "ATS_STANDOFF_H" = 10mm
 "ATS_STANDOFF_OD" = 5.2mm
 "ATS_PCB_L" = 2.5in
