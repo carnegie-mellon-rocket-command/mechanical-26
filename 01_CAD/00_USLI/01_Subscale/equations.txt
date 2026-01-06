@@ -20,6 +20,6 @@
 "MOTOR_OD"= 2.25in
 "MOTOR_ID"= 2.126in
 "MOTOR_L"= 8in
-"MOTOR_LOWER_X"= 0.5in
 "CR_AFT_X"= 0.5in
 "CR_FORE_X"= 6in
+"MOTOR_LOWER_X"= 0.5in
