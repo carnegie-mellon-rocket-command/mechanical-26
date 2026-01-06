@@ -12,7 +12,7 @@
 "DROGUE_L"= 20in
 "ATS_FORE_COUP_L"= 5.5in
 "ATS_AFT_COUP_L"= 4.5in
-"ATS_ROD_X"= 3in
+"ATS_ROD_X"= 3.75in
 "LOWER_L"= 30in
 "FIN_ROOT"= 8in
 "FIN_X"= 0.75in
