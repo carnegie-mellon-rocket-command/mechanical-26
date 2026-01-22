@@ -99,7 +99,7 @@ Boundary Conditions
          Condition                       Value    
          --------------------------------------
          Gauge Pressure [Pa]             101325   
-         Mach Number                     0.5      
+         Mach Number                     2        
          X-Component of Flow Direction   0        
          Y-Component of Flow Direction   -1       
 

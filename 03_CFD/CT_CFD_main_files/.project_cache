@@ -1,7 +1,9 @@
 ﻿dp0/FLU/Fluent/drag_coeff-rfile.out
+dp0/FLU/Fluent/fluent-0-error.log
+dp0/FLU/Fluent/fluent-999999-error.log
 dp0/FLU/Fluent/SolutionMonitor.gz
-dp0/FLU/Fluent/SYS-2-00500.dat.h5
-dp0/FLU/Fluent/SYS-2.cas.h5
+dp0/FLU/Fluent/SYS-3-00479.dat.h5
+dp0/FLU/Fluent/SYS-3.cas.h5
 dp0/FLU/Fluent/SYS-Setup-Output.cas.h5
 dp0/FLU/Fluent/SYS.ip
 dp0/FLU/Fluent/SYS.set
@@ -23,6 +25,8 @@ dp0/designPoint.wbdp
 progress_files/dp0/FLU/Fluent/report.xml
 progress_files/dp0/FLU-1/Fluent/report.xml
 session_files/journal1.wbjn
+session_files/journal2.wbjn
+session_files/journal3.wbjn
 dp0/
 dpall/
 progress_files/
